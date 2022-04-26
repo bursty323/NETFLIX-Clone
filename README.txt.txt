@@ -1,0 +1,1 @@
+Open the project in VS Code and Use live server to open the project
